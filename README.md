@@ -1,4 +1,5 @@
 # x230 Hackintosh
+# WARNING: THIS REPO IS UNFINISHED AND ABANDONED! IT MAY BE COMPLETED AT A LATER TIME, HOWEVER FOR THE UNFORSEEN FUTURE IT WILL STAY THE SAME.
 A guide for anyone trying to Hackintosh their Thinkpad x230.
 
 [Screenshot](https://user-images.githubusercontent.com/11577850/64479428-0c603d00-d185-11e9-8c3e-6c30f41f5ffe.png)
