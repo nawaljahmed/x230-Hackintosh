@@ -1,6 +1,5 @@
 # x230 Hackintosh
-# WARNING: THIS REPO IS UNFINISHED AND ABANDONED! IT MAY BE COMPLETED AT A LATER TIME, HOWEVER FOR THE UNFORSEEN FUTURE IT WILL STAY THE SAME.
-A guide for anyone trying to Hackintosh their Thinkpad x230.
+A guide for anyone trying to Hackintosh their Thinkpad x230. I actually used a x230i and it worked the exact same.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/11577850/64479428-0c603d00-d185-11e9-8c3e-6c30f41f5ffe.png">
@@ -8,7 +7,10 @@ A guide for anyone trying to Hackintosh their Thinkpad x230.
   <em> macOS Mojave on a x230i </em>
 </p>
 
-You will need a Mac Disk Image File of the OS you want. When I tried this, I used an image of Mojave 10.14.3 with Clover. I would tell you how to get this file, but you are a smart and industrious person so I am sure can figure out that part on your own. Remember that you need a .dmg file.
+You will need a Mac Disk Image File of the OS you want. When I tried this, I used an image of Mojave 10.14.3 with Clover. A simple way to obtain this is by using an actual Mac that you borrow from a friend or get from a library and downloading from the App store. If you cannot find the file you want, do not worry. Apple has a bad habit of removing the quick find of previous operating systems on their App Store. The previous ones are hidden and are only found in this archive. Go here are select the OS you want. Then scroll down to downloads. For very old versions, they might provide a .dmg file. Remember that you need a .dmg file.
+
+- You can use Clover for the bootloader which makes this very easy. [Here you can learn more about Clover](https://wiki.archlinux.org/index.php/Clover).
+- [Transmac](https://www.acutesystems.com/scrtm.htm) will load the disk image file onto a USB drive. It is paid-for but they provide a 14 day trial so that is plenty of time.
 
 Also remember that in the BIOS, change the boot option to UEFI instead of Legacy, and to switch the fn key and ctrl key since Thinkpad laptops and regular key placements are different.
 
