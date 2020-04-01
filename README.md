@@ -28,4 +28,4 @@ When you succed in Hackintoshing your laptop, you will want to change your speci
 
 Please keep in mind, that I had this Hackintosh for about a week. At the end of the week, I reflected and realized the if I was going to use macOS, I might as well use another UNIX based OS. I switched back to Linux. It was fun while it lasted, but at this point I can safely say a Linux/Windows dual boot is my way to go. For Linux, I prefer either Debian or Arch. I like using KDE Plasma as my desktop environment and window manager. However, a tiling window manager like i3, xmonad, or openbox is really good for efficiency if you can get the keyboard commands down. For now, I'm good with KWin. Maybe I'll even go back to a Hackintosh again just to get used to the workflow.
 
-**Update: I have swtiched to a Thinkpad T440p with macOS Mojave on it. The x230i is now by backup laptop.**
+**Update: I have swtiched to a Thinkpad T440p with macOS Mojave on it. The x230i is now by backup laptop. I wrote a guide for the T440p [here](https://github.com/NawalJAhmed/T440p-Hackintosh).**
