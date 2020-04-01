@@ -1,4 +1,4 @@
-# x230 Hackintosh
+# x230 Hackintosh Guide
 A guide for anyone trying to Hackintosh their Thinkpad x230. I actually used a x230i and it worked the exact same.
 
 <p align="center">
