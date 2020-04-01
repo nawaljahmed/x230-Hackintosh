@@ -2,7 +2,11 @@
 # WARNING: THIS REPO IS UNFINISHED AND ABANDONED! IT MAY BE COMPLETED AT A LATER TIME, HOWEVER FOR THE UNFORSEEN FUTURE IT WILL STAY THE SAME.
 A guide for anyone trying to Hackintosh their Thinkpad x230.
 
-[Screenshot](https://user-images.githubusercontent.com/11577850/64479428-0c603d00-d185-11e9-8c3e-6c30f41f5ffe.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/11577850/64479428-0c603d00-d185-11e9-8c3e-6c30f41f5ffe.png">
+  <br>
+  <em> macOS Mojave on a x230i </em>
+</p>
 
 You will need a Mac Disk Image File of the OS you want. When I tried this, I used an image of Mojave 10.14.3 with Clover. I would tell you how to get this file, but you are a smart and industrious person so I am sure can figure out that part on your own. Remember that you need a .dmg file.
 
