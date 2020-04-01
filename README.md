@@ -24,6 +24,30 @@ When you succed in Hackintoshing your laptop, you will want to change your speci
 - [Mojave 10.14.3 EFI](http://www.mediafire.com/file/m6zx6wzjsu62ydj/X230_Mojave_10.14.3_EFI.7z/file)
 - [Mojave 10.14.5 EFI](http://www.mediafire.com/file/ycg3f3sit02hrvy/X230_Mojave_10.14.5_EFI.7z/file)
 
+### x320 Hackintosh Files
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/11577850/64479495-fd2dbf00-d185-11e9-9354-cdb15159746f.png">
+  <br>
+  <em> x320 Hackintosh Files </em>
+</p>
+
+### Clover Mount EFI
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/11577850/64479497-0323a000-d186-11e9-9101-d5eec79dad98.png">
+  <br>
+  <em> Clover Mount EFI </em>
+</p>
+
+### EFI Files
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/11577850/64479500-07e85400-d186-11e9-8c86-b73890e93680.png">
+  <br>
+  <em> EFI Files </em>
+</p>
+
 ---
 
 Please keep in mind, that I had this Hackintosh for about a week. At the end of the week, I reflected and realized the if I was going to use macOS, I might as well use another UNIX based OS. I switched back to Linux. It was fun while it lasted, but at this point I can safely say a Linux/Windows dual boot is my way to go. For Linux, I prefer either Debian or Arch. I like using KDE Plasma as my desktop environment and window manager. However, a tiling window manager like i3, xmonad, or openbox is really good for efficiency if you can get the keyboard commands down. For now, I'm good with KWin. Maybe I'll even go back to a Hackintosh again just to get used to the workflow.
