@@ -1,5 +1,7 @@
 # x230 Hackintosh Guide
 
+### DON'TSUEMEDON'TSUEMEDON'TSUEMEDON'TSUEMEDON'TSUEMEDON'TSUEMEDON'TSUEME
+
 **Update: I have swtiched to a Thinkpad T440p with macOS Mojave on it. The x230i is now by backup laptop. I wrote a guide for the T440p [here](https://github.com/NawalJAhmed/T440p-Hackintosh). The T440p guide is FAR more extensive in Hackintoshing than this one, so it's a good idea to look at it anyway even if you don't have one.**
 
 A guide for anyone trying to Hackintosh their Thinkpad x230. I actually used a x230i and it worked the exact same.
